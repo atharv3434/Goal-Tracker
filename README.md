@@ -2,7 +2,7 @@
 
 
 
-🎯 Goal Tracker (Java-Only Project)
+🎯 Goal Tracker 
 A console-based Goal Tracker that allows users to set, update, track progress, and complete goals. Built entirely in Java, using file-based storage for persistence.
 
 📌 Features
